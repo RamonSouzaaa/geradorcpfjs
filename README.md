@@ -1,5 +1,6 @@
 # Gerador de CPF
-
+![Projeto](https://github.com/RamonSouzaaa/geradorcpfjs/blob/master/img/projeto.PNG)
+#
 Neste projeto como forma de estudar Javascript decidi fazer um gerador de CPF, para isso primeiramente foi necessário 
 entender o que necessário para um CPF ser válido. Por conhecimento geral o CPF (Cadastro de pessoa física) possui o seguinte formato
 `XXX.XXX.XXX-XX` sendo os dois últimos dígitos verificadores.
@@ -54,5 +55,3 @@ Mod(347, 11) = 6
 11 - 6 = 5
 ```
 E por fim encontramos os dois digítos verificados do CPF `529.982.247-25`
-#
-![Projeto](https://github.com/RamonSouzaaa/geradorcpfjs/blob/master/img/projeto.PNG)
