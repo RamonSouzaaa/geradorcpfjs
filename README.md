@@ -54,12 +54,5 @@ Mod(347, 11) = 6
 11 - 6 = 5
 ```
 E por fim encontramos os dois digítos verificados do CPF `529.982.247-25`
-
-##
-
-<<<<<<< HEAD
+#
 ![Projeto](https://github.com/RamonSouzaaa/geradorcpfjs/blob/master/img/projeto.PNG)
-=======
-![Projeto](https://github.com/RamonSouzaaa/geradorcpfjs/blob/master/img/projeto.PNG)
-
->>>>>>> b735eb31941e8d71d3f28019de64c3d205a43d5c
