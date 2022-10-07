@@ -2,7 +2,6 @@ function gerarNumero(){
     return Math.floor(Math.random() * 10)
 }
 
-
 function gerarDigitos(){
     let cpf = ""
     for(let i=1; i<=9; i++){
@@ -18,7 +17,7 @@ function validarDigitoVerificador(digitos){
     let contador = digitos.length <= 9 ? 10 : 11
     
     for(let i=0; i<cpf.length; i++){
-        somaDigitos += digitos[i] * contador
+        somaDigitos += cpf[i] * contador
         contador--
     }
     
